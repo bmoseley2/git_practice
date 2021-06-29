@@ -1,0 +1,92 @@
+
+
+.nav-link {
+    text-decoration: none;
+    padding-right: 50px;
+    text-align: right;
+    color:black;
+}
+
+.nav-bar {
+    float: right;
+    padding-right: 50px;
+    
+   
+
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    
+}
+
+header {
+    
+}
+
+body {
+    background-color: rgb(195, 195, 195);
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+#home {
+    padding-top: 50px;
+    padding-left: 250px;
+    text-align: center;
+    
+  
+   
+}
+
+#resume {
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+#weird-align {
+    color: rgb(195, 195, 195);
+}
+
+#selfie {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    float: right;
+    margin-bottom: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.leftof-img {
+   text-align: left;
+} 
+
+.header-begin {
+    text-align: left;
+}
+
+.test {
+    text-align: left;
+}
+
+table {
+    border: 1px solid black;
+    width: 80%;
+    text-align: center;
+    color: white;
+}
+
+#everyOtherRow {
+    background-color: rgb(66, 66, 66);
+     color: white
+}
